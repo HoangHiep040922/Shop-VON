@@ -19,6 +19,7 @@
 
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="index.php">
 
     <?php
     // require functions.php file
